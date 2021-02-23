@@ -13,5 +13,5 @@ Run the following query in MySQL localhost:3306 to continue
     author VARCHAR(50),
     YEAR INT(11),
     pages INT(11)
-  )
+  );
   ```
